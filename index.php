@@ -1,5 +1,6 @@
 <?php
-
+$key = array();
+$answer = array();
 ?>
 <!doctype html>
 <html>
